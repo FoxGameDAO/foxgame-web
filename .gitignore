@@ -1,0 +1,7 @@
+# This repository is public and holds compiled output only.
+#
+# Sourcemaps map a public bundle back to private source, so they must never
+# arrive here. `fg release` withholds them too — this is the second lock.
+*.map
+.DS_Store
+node_modules/
