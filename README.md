@@ -2,7 +2,7 @@
 
 Compiled output for every FoxGame title. **Public**; the source repositories are not.
 
-Deployed by Cloudflare Pages to `foxgamedao.pages.dev`. Nothing here is written
+Deployed by Cloudflare to <https://owlsgames.com>. Nothing here is written
 by hand — it is produced by `foxgame release` from a title repository:
 
 ```bash
@@ -25,6 +25,11 @@ g/<slug>/       one title, including its build.json
 Every title is served from this one origin under `/g/<slug>/`. Carry tokens live
 in `localStorage`, which is partitioned per origin — titles on separate
 subdomains could not see each other's, and every carry would have to be retyped.
+
+"One origin" is stricter than it sounds: `https://owlsgames.com`,
+`https://www.owlsgames.com` and `http://owlsgames.com` are three of them as far
+as `localStorage` is concerned. Everything but the apex must **redirect**, not
+serve, or a player's wallet depends on which address they happened to type.
 
 Changing the origin therefore strands every wallet. Tokens are plain text and
 each title has an export/import screen, so the migration costs a copy and a
