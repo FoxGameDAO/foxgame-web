@@ -1,19 +1,19 @@
 {
-  "titleSlug": "passage",
-  "titleVersion": "0.2.0",
+  "titleSlug": "vigil",
+  "titleVersion": "0.1.0",
   "target": "web-self",
-  "sourceRepo": "git@github.com:FoxGameDAO/game-passage.git",
-  "sourceCommit": "fbf0bac2fb80b6a4d93cc0fe4b594986e6ace99e",
+  "sourceRepo": "git@github.com:FoxGameDAO/game-vigil.git",
+  "sourceCommit": "f5a7c85693710751e28bb2ac9f81affadba64745",
   "frameworkVersions": {
     "@foxgameowl/booncode": "1.0.0",
-    "@foxgameowl/build": "1.0.0",
     "@foxgameowl/contracts": "1.0.0",
     "@foxgameowl/runtime": "1.0.0",
     "@foxgameowl/ui": "1.0.0",
-    "@foxgameowl/cli": "1.0.0",
-    "@foxgameowl/conformance": "1.0.0"
+    "@foxgameowl/build": "1.0.0",
+    "@foxgameowl/conformance": "1.0.0",
+    "@foxgameowl/cli": "1.0.0"
   },
-  "builtAt": "2026-08-13T13:52:22.086Z",
+  "builtAt": "2026-08-13T13:52:42.125Z",
   "node": "v26.7.0",
   "builder": "local",
   "config": {
