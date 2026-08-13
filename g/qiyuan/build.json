@@ -1,5 +1,5 @@
 {
-  "titleSlug": "passage",
+  "titleSlug": "qiyuan",
   "titleVersion": "0.2.0",
   "target": "web-self",
   "sourceRepo": "git@github.com:FoxGameDAO/game-passage.git",
@@ -12,7 +12,7 @@
     "@foxgameowl/cli": "0.1.0",
     "@foxgameowl/conformance": "0.1.0"
   },
-  "builtAt": "2026-08-13T13:13:10.415Z",
+  "builtAt": "2026-08-13T13:13:11.982Z",
   "node": "v26.7.0",
   "builder": "local",
   "config": {

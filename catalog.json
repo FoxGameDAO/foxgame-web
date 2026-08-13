@@ -1,9 +1,16 @@
 [
   {
     "slug": "passage",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "path": "/g/passage/",
-    "commit": "a7ea915232f53489c53a0a065efc72a639cc6197",
-    "publishedAt": "2026-08-13T12:31:56.430Z"
+    "commit": "da2bb8b4c53f0bf5a14cae1938d1a94a413b7415",
+    "publishedAt": "2026-08-13T13:13:10.415Z"
+  },
+  {
+    "slug": "qiyuan",
+    "version": "0.2.0",
+    "path": "/g/qiyuan/",
+    "commit": "da2bb8b4c53f0bf5a14cae1938d1a94a413b7415",
+    "publishedAt": "2026-08-13T13:13:11.982Z"
   }
 ]
