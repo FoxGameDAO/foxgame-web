@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>FoxGame</title>
+    <meta name="description" content="Small games. What you carry out of one carries into the next." />
+    <style>
+      :root { color-scheme: light dark; --ink: #23201b; --faint: #8a8073; --ground: #f4f0e6; --accent: #7a5c3e; }
+      @media (prefers-color-scheme: dark) {
+        :root { --ink: #e6e0d4; --faint: #7d7568; --ground: #191713; --accent: #c8a77f; }
+      }
+      body {
+        margin: 0; padding: 3rem 1rem; background: var(--ground); color: var(--ink);
+        font-family: ui-serif, Georgia, serif; line-height: 1.6;
+        display: flex; justify-content: center;
+      }
+      main { width: 100%; max-width: 34rem; }
+      h1 { font-size: 1.5rem; font-weight: 500; margin: 0 0 0.5rem; }
+      p { margin: 0 0 2rem; }
+      ul { list-style: none; padding: 0; margin: 0; }
+      li { padding: 0.6rem 0; border-top: 1px solid color-mix(in srgb, var(--ink) 15%, transparent); }
+      a { color: var(--accent); text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      .meta, .empty { color: var(--faint); font-size: 0.85rem; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>FoxGame</h1>
+      <p>Small games. What you carry out of one carries into the next.</p>
+      <ul>
+      <li>
+        <a href="/g/passage/">passage</a>
+        <span class="meta">v0.1.0</span>
+      </li>
+      </ul>
+    </main>
+  </body>
+</html>

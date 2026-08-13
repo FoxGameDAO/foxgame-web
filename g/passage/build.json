@@ -1,0 +1,36 @@
+{
+  "titleSlug": "passage",
+  "titleVersion": "0.1.0",
+  "target": "web-self",
+  "sourceRepo": "git@github.com:FoxGameDAO/game-passage.git",
+  "sourceCommit": "ecbc204b784ffbe872c22ce67b8456aa0a3820fd",
+  "frameworkVersions": {
+    "@foxgameowl/booncode": "0.1.0",
+    "@foxgameowl/build": "0.1.0",
+    "@foxgameowl/contracts": "0.1.0",
+    "@foxgameowl/runtime": "0.1.0",
+    "@foxgameowl/cli": "0.1.0",
+    "@foxgameowl/conformance": "0.1.0"
+  },
+  "builtAt": "2026-08-13T11:24:43.994Z",
+  "node": "v26.7.0",
+  "builder": "macbook",
+  "config": {
+    "id": "web-self",
+    "basePath": "/g/",
+    "houseAds": true,
+    "externalLinks": true,
+    "adProvider": "null",
+    "hardening": {
+      "minify": true,
+      "inlineContent": true,
+      "sourcemap": "external-private",
+      "obfuscate": {
+        "modules": [],
+        "controlFlowFlattening": false,
+        "stringArray": false,
+        "deadCodeInjection": false
+      }
+    }
+  }
+}

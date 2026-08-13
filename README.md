@@ -3,12 +3,12 @@
 Compiled output for every FoxGame title. **Public**; the source repositories are not.
 
 Deployed by Cloudflare Pages to `foxgamedao.pages.dev`. Nothing here is written
-by hand — it is produced by `fg release` from a title repository:
+by hand — it is produced by `foxgame release` from a title repository:
 
 ```bash
 cd ../game-<slug>
 pnpm build
-pnpm exec fg release --dist dist --web ../foxgame-web
+pnpm exec foxgame release --dist dist --web ../foxgame-web
 ```
 
 ## Layout
@@ -33,8 +33,8 @@ paste rather than the data, but it is still not free.
 ## What must never land here
 
 - **Sourcemaps.** They reconstruct private source from a public bundle.
-  `.gitignore` blocks them and `fg release` withholds them.
-- **Anything built from a modified tree.** `fg release` refuses: `build.json`
+  `.gitignore` blocks them and `foxgame release` withholds them.
+- **Anything built from a modified tree.** `foxgame release` refuses: `build.json`
   would record a commit that does not contain the shipped code.
 - **Platform bundles.** CrazyGames, Poki and itch builds are uploaded to those
   platforms, not published here.
