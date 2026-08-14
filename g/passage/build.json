@@ -3,7 +3,7 @@
   "titleVersion": "0.2.0",
   "target": "web-self",
   "sourceRepo": "git@github.com:FoxGameDAO/game-passage.git",
-  "sourceCommit": "fbf0bac2fb80b6a4d93cc0fe4b594986e6ace99e",
+  "sourceCommit": "a5bc5c7ca185e2088b1d408753f8494862a724be",
   "frameworkVersions": {
     "@foxgameowl/booncode": "1.0.0",
     "@foxgameowl/build": "1.0.0",
@@ -13,7 +13,7 @@
     "@foxgameowl/cli": "1.0.0",
     "@foxgameowl/conformance": "1.0.0"
   },
-  "builtAt": "2026-08-13T13:52:22.086Z",
+  "builtAt": "2026-08-14T06:25:36.763Z",
   "node": "v26.7.0",
   "builder": "local",
   "config": {

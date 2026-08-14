@@ -3,7 +3,7 @@
   "titleVersion": "0.1.0",
   "target": "web-self",
   "sourceRepo": "git@github.com:FoxGameDAO/game-vigil.git",
-  "sourceCommit": "f5a7c85693710751e28bb2ac9f81affadba64745",
+  "sourceCommit": "652f8eedbdc0f5097f545ccdc9e42dda19b34a59",
   "frameworkVersions": {
     "@foxgameowl/booncode": "1.0.0",
     "@foxgameowl/contracts": "1.0.0",
@@ -13,7 +13,7 @@
     "@foxgameowl/conformance": "1.0.0",
     "@foxgameowl/cli": "1.0.0"
   },
-  "builtAt": "2026-08-13T13:52:42.125Z",
+  "builtAt": "2026-08-14T06:25:46.026Z",
   "node": "v26.7.0",
   "builder": "local",
   "config": {
