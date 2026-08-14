@@ -3,21 +3,21 @@
     "slug": "passage",
     "version": "0.2.0",
     "path": "/g/passage/",
-    "commit": "a5bc5c7ca185e2088b1d408753f8494862a724be",
-    "publishedAt": "2026-08-14T06:25:36.763Z"
+    "commit": "f6fdaa1dc7628161d18ab681319a170d7fc2116c",
+    "publishedAt": "2026-08-14T07:26:57.389Z"
   },
   {
     "slug": "qiyuan",
     "version": "0.2.0",
     "path": "/g/qiyuan/",
-    "commit": "a5bc5c7ca185e2088b1d408753f8494862a724be",
-    "publishedAt": "2026-08-14T06:25:37.694Z"
+    "commit": "f6fdaa1dc7628161d18ab681319a170d7fc2116c",
+    "publishedAt": "2026-08-14T07:26:58.335Z"
   },
   {
     "slug": "vigil",
     "version": "0.1.0",
     "path": "/g/vigil/",
-    "commit": "652f8eedbdc0f5097f545ccdc9e42dda19b34a59",
-    "publishedAt": "2026-08-14T06:25:46.026Z"
+    "commit": "190edee5c3ba85307c687f790f6830139661c67d",
+    "publishedAt": "2026-08-14T07:26:59.267Z"
   }
 ]
