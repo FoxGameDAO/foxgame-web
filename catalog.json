@@ -19,5 +19,12 @@
     "path": "/g/vigil/",
     "commit": "190edee5c3ba85307c687f790f6830139661c67d",
     "publishedAt": "2026-08-14T07:32:41.962Z"
+  },
+  {
+    "slug": "wuxing",
+    "version": "0.1.0",
+    "path": "/g/wuxing/",
+    "commit": "0b41f9d64fd44bfbacf7fb9be26fd994915a90c9",
+    "publishedAt": "2026-08-14T09:58:25.085Z"
   }
 ]
