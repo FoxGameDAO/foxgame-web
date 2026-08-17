@@ -1,5 +1,12 @@
 [
   {
+    "slug": "jiayi",
+    "version": "0.1.0",
+    "path": "/g/jiayi/",
+    "commit": "cb75d94606618eecd7d493ff14a0e8aafe298ca7",
+    "publishedAt": "2026-08-17T10:41:11.148Z"
+  },
+  {
     "slug": "passage",
     "version": "0.2.0",
     "path": "/g/passage/",

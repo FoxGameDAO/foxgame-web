@@ -1,0 +1,44 @@
+{
+  "titleSlug": "jiayi",
+  "titleVersion": "0.1.0",
+  "target": "web-self",
+  "sourceRepo": "git@github.com:FoxGameDAO/game-eight-chars.git",
+  "sourceCommit": "cb75d94606618eecd7d493ff14a0e8aafe298ca7",
+  "frameworkVersions": {
+    "@foxgameowl/booncode": "1.0.0",
+    "@foxgameowl/contracts": "1.0.0",
+    "@foxgameowl/runtime": "1.0.0",
+    "@foxgameowl/ui": "1.0.0",
+    "@foxgameowl/build": "1.0.0",
+    "@foxgameowl/conformance": "1.1.0",
+    "@foxgameowl/cli": "1.0.0"
+  },
+  "builtAt": "2026-08-17T10:41:11.148Z",
+  "node": "v26.7.0",
+  "builder": "local",
+  "config": {
+    "id": "web-self",
+    "basePath": "/g/",
+    "houseAds": true,
+    "externalLinks": true,
+    "adProvider": "null",
+    "thirdParty": [
+      {
+        "host": "static.cloudflareinsights.com",
+        "purpose": "analytics",
+        "injected": true
+      }
+    ],
+    "hardening": {
+      "minify": true,
+      "inlineContent": true,
+      "sourcemap": "external-private",
+      "obfuscate": {
+        "modules": [],
+        "controlFlowFlattening": false,
+        "stringArray": false,
+        "deadCodeInjection": false
+      }
+    }
+  }
+}
