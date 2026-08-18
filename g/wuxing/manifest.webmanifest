@@ -1,0 +1,18 @@
+{
+  "name": "五行 · Five Elements",
+  "short_name": "五行",
+  "description": "A kept garden of five phases. 照看一座五行小园。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2ead9",
+  "theme_color": "#6d7f3e",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
