@@ -3,7 +3,7 @@
   "titleVersion": "0.1.0",
   "target": "web-self",
   "sourceRepo": "git@github.com:FoxGameDAO/game-eight-chars.git",
-  "sourceCommit": "cb75d94606618eecd7d493ff14a0e8aafe298ca7",
+  "sourceCommit": "e41c5829a91f4ff7b25116fd6cd4b5a8da9991bb",
   "frameworkVersions": {
     "@foxgameowl/booncode": "1.0.0",
     "@foxgameowl/contracts": "1.0.0",
@@ -13,7 +13,7 @@
     "@foxgameowl/conformance": "1.1.0",
     "@foxgameowl/cli": "1.0.0"
   },
-  "builtAt": "2026-08-17T10:41:11.148Z",
+  "builtAt": "2026-08-18T07:27:30.206Z",
   "node": "v26.7.0",
   "builder": "local",
   "config": {
