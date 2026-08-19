@@ -3,7 +3,7 @@
   "titleVersion": "0.1.0",
   "target": "web-self",
   "sourceRepo": "git@github.com:FoxGameDAO/game-five-elements-learn-and-play.git",
-  "sourceCommit": "04057372cff9cf2f4cc7f9c5f956cf8d94f6b34a",
+  "sourceCommit": "25715d6471b61c609bf4b350c54c265db32c2f49",
   "frameworkVersions": {
     "@foxgameowl/booncode": "1.2.0",
     "@foxgameowl/contracts": "1.2.0",
@@ -14,7 +14,7 @@
     "@foxgameowl/conformance": "1.2.0",
     "@foxgameowl/cli": "1.2.0"
   },
-  "builtAt": "2026-08-19T01:16:48.786Z",
+  "builtAt": "2026-08-19T01:33:17.913Z",
   "node": "v26.7.0",
   "builder": "local",
   "config": {
