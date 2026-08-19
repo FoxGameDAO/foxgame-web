@@ -21,6 +21,13 @@
     "publishedAt": "2026-08-14T07:32:41.029Z"
   },
   {
+    "slug": "shengke",
+    "version": "0.1.0",
+    "path": "/g/shengke/",
+    "commit": "841781d296d4f647f26ee15fa6c1a3e6c4378382",
+    "publishedAt": "2026-08-19T00:46:53.215Z"
+  },
+  {
     "slug": "vigil",
     "version": "0.1.0",
     "path": "/g/vigil/",
